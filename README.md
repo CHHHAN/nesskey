@@ -12,3 +12,5 @@ OK，下面多说一句，关于这个**非对称加密**。
 
 ---
 **参考资料：https://github.com/liuyh73/DES-Golang**
+
+**详细：https://mp.weixin.qq.com/s?__biz=MzAxMDIyMzQ0OQ==&mid=2247483715&idx=1&sn=077dfb7f884a395ef5314af652814311&chksm=9b52eb75ac256263c57be230408a85a6bb33ed65fcd7c7ec307de6b277f401995ccee1846600&token=1547171381&lang=zh_CN#rd**
