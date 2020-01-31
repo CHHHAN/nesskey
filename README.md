@@ -11,6 +11,6 @@ OK，下面多说一句，关于这个**非对称加密**。
 「使用 **OES 算法**，生成 两个字符串 "**公钥**"、"**私钥**"。**加密时：**用 "公钥" 加密。**解密时：**用"私钥" 解密，**如果加密或解密的时候用错了啊，就不能加密或解密。**」
 
 ---
-**参考资料：https://github.com/liuyh73/DES-Golang**
+**更多介绍：[折腾｜一个简单非对称加密实现](https://mp.weixin.qq.com/s?__biz=MzAxMDIyMzQ0OQ==&mid=2247483715&idx=1&sn=077dfb7f884a395ef5314af652814311&chksm=9b52eb75ac256263c57be230408a85a6bb33ed65fcd7c7ec307de6b277f401995ccee1846600&token=1547171381&lang=zh_CN#rd)**
 
-**详细：https://mp.weixin.qq.com/s?__biz=MzAxMDIyMzQ0OQ==&mid=2247483715&idx=1&sn=077dfb7f884a395ef5314af652814311&chksm=9b52eb75ac256263c57be230408a85a6bb33ed65fcd7c7ec307de6b277f401995ccee1846600&token=1547171381&lang=zh_CN#rd**
+**借鉴了：https://github.com/liuyh73/DES-Golang**
